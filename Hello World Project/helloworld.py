@@ -16,5 +16,5 @@ except:
     exit()
 
 # Display a "Hello, World" message
-print("Hello {uName}, welcome to the World!")
+print(f"Hello {uName}, welcome to the World!")
 
