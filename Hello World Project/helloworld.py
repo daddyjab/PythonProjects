@@ -19,3 +19,4 @@ except:
 print(f"Hello {uName}, welcome to the World!")
 
 # One more change
+print(f"Thank you, {uName}, for using this application today.")
